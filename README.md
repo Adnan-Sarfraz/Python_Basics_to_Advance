@@ -8,40 +8,6 @@ This repository serves as my hands-on coding playground where I practice every c
 
 My ultimate goal is to become confident in writing efficient, optimized, and scalable code for real-world software development.
 
-----Project Structure----
-
-
-📁 python-learning/
-│
-├── basics/
-│   ├── syntax.py
-│   ├── variables.py
-│   ├── data_types.py
-│   ├── strings.py
-│   ├── lists.py
-│   └── ...
-│
-├── control_flow/
-│   ├── if_else.py
-│   ├── loops.py
-│   ├── match_case.py
-│   └── ...
-│
-├── oop/
-│   ├── classes_objects.py
-│   ├── init_method.py
-│   ├── inheritance.py
-│   ├── polymorphism.py
-│   ├── encapsulation.py
-│   └── ...
-│
-├── file_handling/
-│   ├── read_files.py
-│   ├── write_files.py
-│   └── delete_files.py
-│
-└── README.md
-
 
 🚀 Topics Covered
 ✔ Python Basics
