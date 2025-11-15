@@ -1,0 +1,2 @@
+import Adnan
+Adnan.welcome()
